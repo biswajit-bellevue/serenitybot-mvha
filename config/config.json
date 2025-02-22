@@ -1,0 +1,4 @@
+{
+  "fine-tuned-model":"your-fine-tuned-model-id",
+  "foundational-model": "gpt-4o-mini"
+}
