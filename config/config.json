@@ -1,4 +1,4 @@
 {
-  "fine-tuned-model":"your-fine-tuned-model-id",
+  "fine-tuned-model":"ft:gpt-4o-mini-2024-07-18:personal:mental-hlth-20250203:Ax2BrLIR",
   "foundational-model": "gpt-4o-mini"
 }
